@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Gochad/Gochad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <h1 align="center"> Hello there! I'm Gocha :wave:</h1>
 
-Here are some ideas to get you started:
+## I'm a third-year student of Computer Science at the Jagiellonian University. Currently, I'm working as Junior Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻  Main programming languages: Golang, JavaScript, React
+- I also know basics of C#, C++ and Haskell
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ma%C5%82gorzata-dr%C4%85g-841a67268/)
+
+---
+
+## Github stats:
+
+<div align="center"> 
+         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gochad&hide=html,scss,css)](https://github.com/anuraghazra/github-readme-stats)
+         
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gochad3&show_icons=true) </div>
