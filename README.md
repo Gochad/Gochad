@@ -14,6 +14,6 @@
 
 <div align="center"> 
          
-[![Top Langs](https://https://github-readme-stats-q54fezfa3-gochads-projects.vercel.app/api/top-langs/?username=Gochad&hide=html,scss,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-v1w1.vercel.app/api/top-langs/?username=Gochad&hide=html,scss,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
          
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gochad&show_icons=true) </div>
+![GitHub stats](https://github-readme-stats-v1w1.vercel.app/api?username=Gochad&show_icons=true) </div>
