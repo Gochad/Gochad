@@ -1,7 +1,7 @@
 
 # <h1 align="center"> Hello there! I'm Gocha :wave:</h1>
 
-## I'm a third-year student of Computer Science.
+## I'm a fourth-year student of Computer Science.
 
 - 💻  Main programming languages: Golang, JavaScript, React, Python
 - I also know basics of C#, C++ and Haskell
